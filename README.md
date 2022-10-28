@@ -67,5 +67,5 @@
 ### Github stats
 <a href="http://www.github.com/shwet0710"><img src="https://github-readme-stats.vercel.app/api?username=shwet0710&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 
-<br />
+
 [![@square0710's Holopin board](https://holopin.me/square0710)](https://holopin.io/@square0710)
