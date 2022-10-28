@@ -6,6 +6,7 @@
 - Currently I am a final year student pursuing Computer Science and Engineering at Harcourt      
   Butler Technical University.
 - I am always ready to have new experiences, meet new people and learn new things.
+- I have interest in full stack development and solving data structures and algorithms problems.
 - I have successfully completed <b>Hacktoberfest 2022</b> by contributing to open source.
 <p><img src="https://komarev.com/ghpvc/?username=shwet0710&color=red" /></p>
 
