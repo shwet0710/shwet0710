@@ -3,7 +3,8 @@
 
 ## Learning and exploring out stuff!!
 
-- Currently I am a final year student pursuing Computer Science and Engineering at Harcourt      
+- Currently I am working as a full stack developer at Western Union.
+- I have completed my B.Tech in Computer Science and Engineering from Harcourt      
   Butler Technical University.
 - I am always ready to have new experiences, meet new people and learn new things.
 - I have interest in full stack development and solving data structures and algorithms problems.
